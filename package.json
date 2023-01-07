@@ -1,0 +1,22 @@
+{
+  "name": "atm1-ihs",
+  "version": "1.0.0",
+  "description": "Basic atm1",
+  "main": "index.js",
+  "type" : "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "./index.js",
+  "keywords": [],
+  "author": "Iqbal H. Syed",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "inquirer": "^9.1.4"
+  },
+  "devDependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/inquirer": "^9.0.3"
+  }
+}
