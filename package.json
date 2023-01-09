@@ -1,6 +1,6 @@
 {
-  "name": "atm1-ihs",
-  "version": "1.0.0",
+  "name": "atmihs",
+  "version": "1.1.0",
   "description": "Basic atm1",
   "main": "index.js",
   "type" : "module",
